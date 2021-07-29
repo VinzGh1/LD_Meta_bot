@@ -111,11 +111,13 @@ Run The Docker Container and Define the Variables in One Command
 
     start - To Start The Bot.
     help - To Get Help about Using the Bot.
+    restart - To Restart LibdDrive Server.
     rebuild - To Rebuild the Metadata of your Libdrive.
     fixconfig - To Fix LibDrive Config.
     assignid - To assign bot_id.
     unassignid - To remove bot_id.
     accounts - To View Registered Accounts of your Libdrive.
+    accountsclip - To View Your Accounts in an Online Paste.
     addaccount - To Add an Account to Libdrive.
     rmaccount - To Remove an Account from Libdrive.
     rmaccid - To Remove an Account using bot_id
@@ -130,6 +132,7 @@ Run The Docker Container and Define the Variables in One Command
     setui - To change The UI Settings of your Libdrive.
     hrestart - Restart Heroku Dynos.(Heroku Only)
     hdyno - Get Heroku Dyno Stats.(Heroku Only)
+    search - To Search Your LibDrive.
     speedtest - To Perform a Speedtest on the Server. (Completely Irrelevant 😂)
 
 ## Credits
